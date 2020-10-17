@@ -1,0 +1,31 @@
+{
+    "posts":[
+        {
+            "id": "1",
+            "title:": "The first post",
+            "body": "Hello World from the first post of the json datat",
+            "publishedAt": "10-1-2020"
+        },
+    
+        {
+            "id": "2",
+            "title:": "The second post",
+            "body": "Hello World from the first post of the json datat",
+            "publishedAt": "10-1-2020"
+        },
+    
+        {
+            "id": "3",
+            "title:": "Eild wild west",
+            "body": "Hello World from the thrid post of the json datat",
+            "publishedAt": "10-1-2020"
+        }
+    ],
+    "users":[
+        {
+            "id": "1",
+            "name:": "apula davis",
+            "email": "pcdavis@travelb.com"
+        }
+    ]
+}
